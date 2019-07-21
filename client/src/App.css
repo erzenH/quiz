@@ -1,0 +1,33 @@
+body{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+
+.option{
+  user-select: none;
+}
+
+.option:hover{
+  cursor: pointer;
+}
+
+.question p {
+  color: #9e9292;
+}
+
+.scoreArea{
+  padding-top: 10px;
+}
+
+.text{
+  font-weight: normal;
+}
+
+.link{
+  cursor: pointer;
+  color: blueviolet;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
